@@ -29,19 +29,17 @@
 
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff">
   Contact Me
 </h2>
 
 
 <a href="mailto:siavash1378gh@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=53388&format=png&color=000000" alt="Email Icon" width="40"/>
-</a>
-<a href="tel:+989036414372">
-  <img src="https://img.icons8.com/?size=100&id=9659&format=png&color=000000" width="40" alt="Phone Icon"/>
-</a>
-<a href="https://www.linkedin.com/in/siiaavaassh/">
-  <img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000">
+  <img src="https://img.icons8.com/?size=100&id=53388&format=png&color=ffffff" alt="Email Icon" width="40"/>
+</a> <a href="tel:+989036414372">
+  <img src="https://img.icons8.com/?size=100&id=9659&format=png&color=ffffff" width="40" alt="Phone Icon"/>
+</a> <a href="https://www.linkedin.com/in/siiaavaassh/">
+  <img src="https://img.icons8.com/?size=100&id=447&format=png&color=ffffff">
 </a>
 <!--
 **siiaavaassh/siiaavaassh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
