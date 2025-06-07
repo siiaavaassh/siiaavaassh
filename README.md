@@ -18,8 +18,31 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+
+
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=000000">
+  Contact Me
+</h2>
+
+
+<a href="mailto:siavash1378gh@gmail.com">
+  <img src="https://img.icons8.com/?size=100&id=53388&format=png&color=000000" alt="Email Icon" width="40"/>
+</a>
+<a href="tel:+989036414372">
+  <img src="https://img.icons8.com/?size=100&id=9659&format=png&color=000000" width="40" alt="Phone Icon"/>
+</a>
+<a href="https://www.linkedin.com/in/siiaavaassh/">
+  <img src="https://img.icons8.com/?size=100&id=447&format=png&color=000000">
+</a>
 <!--
 **siiaavaassh/siiaavaassh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
