@@ -13,12 +13,13 @@
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=2341&format=png&color=ffffff" width="15">
-  Islamic Azad University, Science and Research Branch, Tehran, Iran, - M.Sc., Artificial Intelligence - GPA: 3.5 
+  Islamic Azad University, Science and Research Branch, Tehran, Iran, - M.Sc., Artificial Intelligence - GPA: 3.5 <br>
 <span style="margin-right: 35px; font-style: italic; color: gray;">            In Progress</span></p>
 
 <p>
   <img src="https://img.icons8.com/?size=100&id=2341&format=png&color=ffffff" width="15">
-  Islamic Azad University, Central Tehran Branch, Iran, Tehran, Iran - B.Sc., Computer Engineering – Software Engineering - GPA: 3.5 <span style="margin-right: 35px; font-style: italic; color: gray;">              Jan 2018 - Dec 2022</span></p>
+  Islamic Azad University, Central Tehran Branch, Iran, Tehran, Iran - B.Sc., Computer Engineering – Software Engineering - GPA: 3.5<br>
+  <span style="margin-right: 35px; font-style: italic; color: gray;">              Jan 2018 - Dec 2022</span></p>
 
 
 
