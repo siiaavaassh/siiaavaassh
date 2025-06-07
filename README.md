@@ -1,11 +1,13 @@
-<h1 align="left"> About Me </h1>
+<h1 align="left">
+  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="30">
+  About Me </h1>
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg">
 
 
 <h2 align="center">Artificial intelligence (AI) Engineer</h2>
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=73815&format=png&color=ffffff" width="30"/>
+  <img src="https://img.icons8.com/?size=100&id=73815&format=png&color=ffffff" width="20"/>
   Education
 </h2>
 
@@ -27,7 +29,7 @@
 
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=JhLSNFqmTflt&format=png&color=ffffff" width="30">
+  <img src="https://img.icons8.com/?size=100&id=JhLSNFqmTflt&format=png&color=ffffff" width="20">
   Skills
 </h2>
 
@@ -52,7 +54,7 @@
 
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="30">
+  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="20">
   Contact Me
 </h2>
 
