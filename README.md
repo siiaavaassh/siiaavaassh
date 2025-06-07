@@ -1,8 +1,8 @@
 <h1 align="left">
   <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="30">
   About Me </h1>
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg">
 
+<img align="center" src="image/ai_banner_blinking_effect_optimized.gif">
 
 <h2 align="center">Artificial intelligence (AI) Engineer</h2>
 
