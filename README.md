@@ -2,7 +2,20 @@
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg">
 
 
-<h2 align="center">Artificial intelligence (AI)</h2>
+<h2 align="center">Artificial intelligence (AI) Engineer</h2>
+
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=73815&format=png&color=ffffff" width="30"/>
+  Education
+</h2>
+
+
+
+<p>Islamic Azad University, Science and Research Branch, Tehran, Iran, - M.Sc., Artificial Intelligence - GPA: 3.5 
+In Progress</p>
+
+<p>Islamic Azad University, Central Tehran Branch, Iran, Tehran, Iran - B.Sc., Computer Engineering – Software Engineering - GPA: 3.5 (Jan 2018 - Dec 2022)</p>
+
 
 
 
@@ -25,27 +38,29 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
+<p> Machine learning, Image processing, NLP, Neural Networks, Big Data workflow and … 
+    Familiar with Kaggle competitions and datasets, Hugging Face and ChatGPT based applications</p>
+<p></p>
 
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="40">
+  <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="30">
   Contact Me
 </h2>
 
 
 <div align=left>
   <a href="mailto:siavash1378gh@gmail.com">
-  <img src="https://img.icons8.com/?size=100&id=53388&format=png&color=ffffff" alt="Email Icon" width="40"/>
+  <img src="https://img.icons8.com/?size=100&id=53388&format=png&color=ffffff" alt="Email Icon" width="30"/>
 </a>
 <a href="telegram.me/siiaavaassh">
-  <img src="https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=ffffff" width="40">
+  <img src="https://img.icons8.com/?size=100&id=9R1sV3QvY18K&format=png&color=ffffff" width="30">
 </a>
 <a href="tel:+989036414372">
-  <img src="https://img.icons8.com/?size=100&id=9659&format=png&color=ffffff" width="40" alt="Phone Icon"/>
+  <img src="https://img.icons8.com/?size=100&id=9659&format=png&color=ffffff" width="30" alt="Phone Icon"/>
 </a> 
 <a href="https://www.linkedin.com/in/siiaavaassh/">
-  <img src="https://img.icons8.com/?size=100&id=447&format=png&color=ffffff" width="40">
+  <img src="https://img.icons8.com/?size=100&id=447&format=png&color=ffffff" width="30">
 </a>
 </div>
 <!--
