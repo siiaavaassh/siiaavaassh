@@ -11,17 +11,24 @@
 
 
 
-<p>Islamic Azad University, Science and Research Branch, Tehran, Iran, - M.Sc., Artificial Intelligence - GPA: 3.5 
-In Progress</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=2341&format=png&color=ffffff" width="15">
+  Islamic Azad University, Science and Research Branch, Tehran, Iran, - M.Sc., Artificial Intelligence - GPA: 3.5 
+<i>In Progress</i></p>
 
-<p>Islamic Azad University, Central Tehran Branch, Iran, Tehran, Iran - B.Sc., Computer Engineering – Software Engineering - GPA: 3.5 (Jan 2018 - Dec 2022)</p>
+<p>
+  <img src="https://img.icons8.com/?size=100&id=2341&format=png&color=ffffff" width="15">
+  Islamic Azad University, Central Tehran Branch, Iran, Tehran, Iran - B.Sc., Computer Engineering – Software Engineering - GPA: 3.5 <i>Jan 2018 - Dec 2022</i></p>
 
 
 
 
 
 
-### Skills
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=JhLSNFqmTflt&format=png&color=ffffff" width="30">
+  Skills
+</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
