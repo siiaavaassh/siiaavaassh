@@ -2,7 +2,8 @@
   <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="30">
   About Me </h1>
 
-<img align="center" src="https://i.imgur.com/khpfwbi.gif">
+
+<img align="center" src="https://github.com/siiaavaassh/siiaavaassh/blob/main/image/ai_banner_blinking_effect_optimized.gif">
 
 <h2 align="center">Artificial intelligence (AI) Engineer</h2>
 
@@ -73,7 +74,7 @@
   <img src="https://img.icons8.com/?size=100&id=447&format=png&color=ffffff" width="30">
 </a>
 </div>
-<!--<img align="center" src="https://github.com/siiaavaassh/siiaavaassh/blob/main/image/ai_banner_blinking_effect_optimized.gif">
+<!--
 **siiaavaassh/siiaavaassh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
