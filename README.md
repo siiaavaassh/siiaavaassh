@@ -2,7 +2,7 @@
   <img src="https://img.icons8.com/?size=100&id=bZGWfxY6L1f0&format=png&color=ffffff" width="30">
   About Me </h1>
 
-<img align="center" src="https://imgur.com/a/hLffWGK">
+<img align="center" src="https://i.imgur.com/khpfwbi.gif">
 
 <h2 align="center">Artificial intelligence (AI) Engineer</h2>
 
